@@ -139,6 +139,13 @@ body{
 
 
 }
+body{
+    background: rgba(0, 0,0, 0.5) url('../img/bg.jpg');
+    background-size: cover;
+    background-blend-mode: darken;
+    background-attachment: fixed;
+
+}
 .text-small{
     font-size: 20px;
 
